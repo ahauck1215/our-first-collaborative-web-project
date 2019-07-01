@@ -27,9 +27,9 @@
 #### Part 3 - Pulling your first change
 * You can keep in sync by executing the following commands
 	1. `git pull origin master`
-	* `git add .`
-	* `git commit -m 'merged with master'`
-	* `git push -u origin master`
+	2. `git add .`
+	3. `git commit -m 'merged with master'`
+	4. `git push -u origin master`
 
 #### Part 4 - Edit the `index.html`
 * Edit the `index.html` page to include a link to each of the newly created `profile.html` pages. 
