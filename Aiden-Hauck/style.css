@@ -2,3 +2,11 @@ td {
     padding:0 15px 0 15px;
 
 }
+Table {
+    background-color: Maroon;
+}
+body {
+    color: White;
+    background-color: black;
+}
+body {font-family: 'Satisfy', cursive;}
